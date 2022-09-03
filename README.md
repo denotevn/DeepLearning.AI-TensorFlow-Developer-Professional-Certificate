@@ -6,6 +6,7 @@
 + Week 3: Enhancing Vision with Convolutional Neural Networks
 + Week 4: Using real-wprld Images
 > **Certificate:**
+![Course 1](https://github.com/denotevn/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/certificate/Course%201.jpg)
 
 ## Course 2: **[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome)**
 + Week 1: Exploring a Larger Dataset
